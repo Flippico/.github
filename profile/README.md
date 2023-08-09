@@ -46,11 +46,10 @@
 
 [![.github/workflows/staging-rever-db.yml](https://github.com/Flippico/cloud/actions/workflows/staging-rever-db.yml/badge.svg)](https://github.com/Flippico/cloud/actions/workflows/staging-rever-db.yml)
 
+[![Deploy staging](https://github.com/Flippico/cloud/actions/workflows/deploy-staging.yml/badge.svg)](https://github.com/Flippico/cloud/actions/workflows/deploy-staging.yml)
+
 [![Destroy staging](https://github.com/Flippico/cloud/actions/workflows/destroy-staging.yml/badge.svg)](https://github.com/Flippico/cloud/actions/workflows/destroy-staging.yml)
 
 [![IP retention Deploy production](https://github.com/Flippico/cloud/actions/workflows/ip-retention-deploy-prod.yml/badge.svg)](https://github.com/Flippico/cloud/actions/workflows/ip-retention-deploy-prod.yml)
 
 [![IP retention Destroy production](https://github.com/Flippico/cloud/actions/workflows/ip-retention-destroy-prod.yml/badge.svg)](https://github.com/Flippico/cloud/actions/workflows/ip-retention-destroy-prod.yml)
-
-
-
