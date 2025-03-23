@@ -1,6 +1,6 @@
 ## Flippico shopify AI description generator
 
-[![Deploy on Production](https://github.com/Flippico/flippify-description-generator/actions/workflows/prod.yml/badge.svg)(https://github.com/Flippico/flippify-description-generator/actions/workflows/prod.yml)
+[![Deploy on Production](https://github.com/Flippico/flippify-description-generator/actions/workflows/prod.yml/badge.svg)](https://github.com/Flippico/flippify-description-generator/actions/workflows/prod.yml)
 
 
 ## Multipanel API
