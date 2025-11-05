@@ -1,43 +1,18 @@
-## Flippico shopify AI description generator
+## Shopify 02 - FlippifAI: Product pictures - [repo link](https://github.com/Flippico/shopify-02)
+
+## Shopify 01 - FlippifAI: Product Description - [repo link](https://github.com/Flippico/flippify-description-generator)
 
 [![Deploy on Production](https://github.com/Flippico/flippify-description-generator/actions/workflows/prod.yml/badge.svg)](https://github.com/Flippico/flippify-description-generator/actions/workflows/prod.yml)
 
+## Amadeus - [repo link](https://github.com/Flippico/amadeus-auth)
 
-## Multipanel API
+## Notifica - [repo link](https://github.com/Flippico/notifica)
 
-[![Deploy on Production](https://github.com/Flippico/multipanle-api/actions/workflows/prod.yml/badge.svg)](https://github.com/Flippico/multipanle-api/actions/workflows/prod.yml)
+## Bajkomat mobile - [repo link](https://github.com/Flippico/bajkomat)
 
-[![Deploy on Staging](https://github.com/Flippico/multipanle-api/actions/workflows/staging.yml/badge.svg)](https://github.com/Flippico/multipanle-api/actions/workflows/staging.yml)
+## Bajkomat API - [repo link](https://github.com/Flippico/bajkomat-api)
 
-[![Destroy staging](https://github.com/Flippico/multipanle-api/actions/workflows/destroy-staging.yml/badge.svg)](https://github.com/Flippico/multipanle-api/actions/workflows/destroy-staging.yml)
-
-## Multipanel WWW
-
-[![.github/workflows/staging.yml](https://github.com/Flippico/multipanel/actions/workflows/staging.yml/badge.svg)](https://github.com/Flippico/multipanel/actions/workflows/staging.yml)
-
-[![Deploy on Production](https://github.com/Flippico/multipanel/actions/workflows/prod.yml/badge.svg)](https://github.com/Flippico/multipanel/actions/workflows/prod.yml)
-
-[![Destroy staging](https://github.com/Flippico/multipanel/actions/workflows/destroy-staging.yml/badge.svg)](https://github.com/Flippico/multipanel/actions/workflows/destroy-staging.yml)
-
-## Athena
-
-[![Deploy on Production](https://github.com/Flippico/athena/actions/workflows/prod.yml/badge.svg)](https://github.com/Flippico/athena/actions/workflows/prod.yml)
-
-[![Deploy on Staging](https://github.com/Flippico/athena/actions/workflows/staging.yml/badge.svg)](https://github.com/Flippico/athena/actions/workflows/staging.yml)
-
-[![Destroy staging](https://github.com/Flippico/athena/actions/workflows/destroy-staging.yml/badge.svg)](https://github.com/Flippico/athena/actions/workflows/destroy-staging.yml)
-
-[![IP retention Deploy production](https://github.com/Flippico/athena/actions/workflows/ip-retention-deploy-prod.yml/badge.svg)](https://github.com/Flippico/athena/actions/workflows/ip-retention-deploy-prod.yml)
-
-[![IP retention Destroy production](https://github.com/Flippico/athena/actions/workflows/ip-retention-destroy-prod.yml/badge.svg)](https://github.com/Flippico/athena/actions/workflows/ip-retention-destroy-prod.yml)
-
-## Flippico STRAPI
-
-[![Deploy on Production](https://github.com/Flippico/api-legacy/actions/workflows/prod.yml/badge.svg)](https://github.com/Flippico/api-legacy/actions/workflows/prod.yml)
-
-[![Deploy on Staging](https://github.com/Flippico/api-legacy/actions/workflows/staging.yml/badge.svg)](https://github.com/Flippico/api-legacy/actions/workflows/staging.yml)
-
-[![Destroy staging](https://github.com/Flippico/api-legacy/actions/workflows/destroy-staging.yml/badge.svg)](https://github.com/Flippico/api-legacy/actions/workflows/destroy-staging.yml)
+## Bajkomat WWW - [repo link](https://github.com/Flippico/bajkomat-lp)
 
 ## Flippico WWW
 
